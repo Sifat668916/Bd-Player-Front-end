@@ -5,7 +5,7 @@ Assemble your ultimate cricket squad with internal strategy and budget managemen
 ![Project Preview](https://i.ibb.co.com/XFSHC5z/banner-main.png)
 
 ## 🚀 Live Demo
-[Check out the Live Application](https://ais-dev-3zpybzlvee3hxd6zqbzzlf-879112455186.asia-southeast1.run.app)
+[Check out the Live Application](https://playoo-11.netlify.app)
 
 ## ✨ Key Features
 
