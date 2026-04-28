@@ -1,0 +1,122 @@
+[
+  {
+    "playerId": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=800&auto=format&fit=crop",
+    "role": "Batter",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm medium",
+    "price": 1500000
+  },
+  {
+    "playerId": 2,
+    "name": "Babar Azam",
+    "country": "Pakistan",
+    "image": "https://images.unsplash.com/photo-1624526267942-ab0ff8a3e972?q=80&w=800&auto=format&fit=crop",
+    "role": "Batter",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "price": 1200000
+  },
+  {
+    "playerId": 3,
+    "name": "Jos Buttler",
+    "country": "England",
+    "image": "https://images.unsplash.com/photo-1624526267942-ab0ff8a3e972?q=80&w=800&auto=format&fit=crop",
+    "role": "Wicketkeeper Batter",
+    "battingType": "Right-hand bat",
+    "bowlingType": "None",
+    "price": 1100000
+  },
+  {
+    "playerId": 4,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://images.unsplash.com/photo-1593341646647-75b32930e4a1?q=80&w=800&auto=format&fit=crop",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "price": 1300000
+  },
+  {
+    "playerId": 5,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://images.unsplash.com/photo-1593341646647-75b32930e4a1?q=80&w=800&auto=format&fit=crop",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "price": 1400000
+  },
+  {
+    "playerId": 6,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "image": "https://images.unsplash.com/photo-1593766788306-28561086694e?q=80&w=800&auto=format&fit=crop",
+    "role": "All-rounder",
+    "battingType": "Left-hand bat",
+    "bowlingType": "Slow left-arm orthodox",
+    "price": 1250000
+  },
+  {
+    "playerId": 7,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://images.unsplash.com/photo-1593766788306-28561086694e?q=80&w=800&auto=format&fit=crop",
+    "role": "Batter",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "price": 1000000
+  },
+  {
+    "playerId": 8,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?q=80&w=800&auto=format&fit=crop",
+    "role": "Wicketkeeper Batter",
+    "battingType": "Left-hand bat",
+    "bowlingType": "None",
+    "price": 1050000
+  },
+  {
+    "playerId": 9,
+    "name": "Jasprit Bumrah",
+    "country": "India",
+    "image": "https://images.unsplash.com/photo-1593766788306-28561086694e?q=80&w=800&auto=format&fit=crop",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm fast",
+    "price": 1450000
+  },
+  {
+    "playerId": 10,
+    "name": "Glen Maxwell",
+    "country": "Australia",
+    "image": "https://images.unsplash.com/photo-1606248897732-2c5ffe759c04?q=80&w=800&auto=format&fit=crop",
+    "role": "All-rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm offbreak",
+    "price": 1150000
+  },
+  {
+    "playerId": 11,
+    "name": "Wanindu Hasaranga",
+    "country": "Sri Lanka",
+    "image": "https://images.unsplash.com/photo-1593766788306-28561086694e?q=80&w=800&auto=format&fit=crop",
+    "role": "All-rounder",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Right-arm legbreak",
+    "price": 950000
+  },
+  {
+    "playerId": 12,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "image": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?q=80&w=800&auto=format&fit=crop",
+    "role": "Bowler",
+    "battingType": "Right-hand bat",
+    "bowlingType": "Left-arm fast-medium",
+    "price": 1100000
+  }
+]
